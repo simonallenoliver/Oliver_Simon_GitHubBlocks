@@ -1,0 +1,45 @@
+
+h1{
+    text-align: center;
+    align-items: center;
+}
+
+
+.container{
+    background-color: blanchedalmond;
+    margin: 0px auto;
+    width: 640px;
+}
+
+.images{
+    width: 190px;
+    justify-items: center;
+}
+
+.row1{
+    background-color: blue;
+    height: 220px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+
+.row2{
+    background-color:chartreuse;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.row3{
+    background-color:crimson;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
